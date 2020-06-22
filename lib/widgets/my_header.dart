@@ -77,7 +77,6 @@ class _MyHeaderState extends State<MyHeader> {
                       ),
                     ),
                   ),
-                  Container(), // I dont know why it can't work without container
                 ],
               ),
             ),
